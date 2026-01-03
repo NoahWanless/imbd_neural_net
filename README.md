@@ -9,6 +9,7 @@ This lead to a model that 'worked' but was as accurate as a random guess.
 So while in the end this project was a failure, i learned a lot about making neural nets, the math behined it along with the implenmation of it and some 
 of the tricker points gradient descent. And finally introduced me to the idea of vectorization of words as a method to imbed words.
 
+if you want more documentaion go to the documentaion.md file
 
 IMPORTANT NOTE: The program currently doesnt run due to a module being outdated, I havent had the time to fix this, but im not sure if i will because
 the project was not successful to begin with.
